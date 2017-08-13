@@ -1,0 +1,9 @@
+{
+  "name": "roboto-regular",
+  "version": "1.0.0",
+  "description": "Roboto Font Regular",
+  "main": "index.js",
+  "repository": "git@github.com:Luchanso/roboto-regular.git",
+  "author": "Luchanso <luchansodev@gmail.com>",
+  "license": "MIT"
+}
